@@ -1,0 +1,199 @@
+header{
+padding:0;	
+margin:0;	
+height:100px;
+background-color:black;
+}
+.burger{
+	background-color:white;
+}
+h3{
+font-family:cursive;	
+color:gray;
+margin-top:5px;
+margin-left:25px;
+float:left;
+}
+body{
+padding:0;	
+margin:0;	
+
+}
+li{
+display:inline-block;	
+list-style-type:none;
+color:white;
+border:2px solid white;
+font-size:30px;
+
+}
+a:hover{
+color:blue;	
+border-radius:10px;
+}
+li:hover{
+color:blue;	
+border-radius:10px;
+}
+a:hover li{	
+border-radius:10px;
+}
+a{
+color:white;
+text-decoration:none;	
+
+}
+button{
+float:right;	
+margin-top:-50px;	
+background-color:aqua;
+font-size:15px;
+}
+img{
+width:100%;
+hieght:95%;	
+}
+footer{
+height:60px;	
+background-color:#6DFF0B;
+font-size:25px;
+color:blue;
+
+}
+.rty{
+margin-top:10px;	
+}
+.menu{
+font-family:cursive;	
+color:#2CB3CE;
+margin-top:30px;
+}
+.imgm{
+width:300px;	
+height:200px;
+margin-top:30px;
+margin-left:10px;	
+border:5px solid black;
+}
+hr{
+width:900px;	
+height:10px;
+background-color:gray;
+}
+.index{
+background-color:rgb(71,255,8);
+background: linear-gradient(270deg, rgba(71,255,8,1) 0%, rgba(0,255,133,1) 43%, rgba(0,255,12,1) 100%);
+}
+.drink_text{
+margin-left:20%;	
+}
+.span{
+	margin-left:600px;	
+}
+.span25{
+	margin-left:570px;	
+}
+.span18{
+	margin-left:580px;	
+}
+.span17{
+	margin-left:603px;	
+}
+.span26{
+	margin-left:680px;	
+}
+.span31{
+	margin-left:685px;	
+}
+.span39{
+	margin-left:695px;	
+}
+.span34{
+	margin-left:640px;	
+}
+
+.span123{
+	margin-left:630px;	
+}
+.span69{
+	margin-left:640px;	
+}
+.span87{
+	margin-left:665px;	
+}
+.span78{
+	margin-left:590px;	
+}
+.span91{
+	margin-left:545px;	
+}
+.span65{
+	margin-left:640px;	
+}
+.span40{
+	margin-left:615px;	
+}
+.span42{
+	margin-left:615px;	
+}
+.span32{
+	margin-left:575px;	
+}
+.span33{
+	margin-left:650px;	
+}
+.span23{
+	margin-left:538px;	
+}
+.span38{
+	margin-left:645px;	
+}
+.span36{
+	margin-left:515px;	
+}
+.span48{
+	margin-left:530px;	
+}
+.span35{
+	margin-left:695px;	
+}
+.mu{
+color:#68A913;	
+font-family:fantasy;
+font-size:70px;
+margin-top:30px;
+}
+.cvb{
+background-color:#F2AF13;	
+}
+.jkl{
+font-family:fantasy;	
+font-size:50px;
+color:#DB21E8;
+}
+.dfg{
+border-radius:100%;	
+width:80px;
+height:80px;
+margin-right:410px;
+}
+.yui{
+margin-left:100px;	
+	
+}
+.apm{
+width:140px;	
+height:80px;
+margin-top:-90px;
+
+}
+.middle{
+border:5px solid black;	
+font-size:20px;
+font-family:monospace;
+color:#2612DB;
+background-color:#C4BABA;
+}
+.ybn{
+background-color:#897676;	
+}
